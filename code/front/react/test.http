@@ -1,0 +1,14 @@
+POST /admin/updateDevice HTTP/1.1
+Host: localhost:3000
+Connection: keep-alive
+Content-Length: 102
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJyb290IiwiaWF0IjoxNTQzMjM0NjI2LCJleHAiOjE1NDM4Mzk0MjZ9.VzJgpgatEogx1-1tEmoiFLuQ6apcktY6phx19SzS_oLX5FWfUArXSCEc-F-LYl78ndVvvPRmmdnBRV5wT1NFxg
+Origin: http://localhost:8000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+DNT: 1
+Content-Type: application/json
+Accept: */*
+Referer: http://localhost:3000/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh,en;q=0.9,zh-CN;q=0.8,en-US;q=0.7,zh-TW;q=0.6,und;q=0.5
+
