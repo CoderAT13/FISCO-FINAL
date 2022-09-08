@@ -21,7 +21,7 @@
     "file-saver": "^2.0.1",
     "history": "^4.7.2",
     "intl": "^1.2.5",
-    "jszip": "^3.2.1",
+    "jszip": "^3.7.0",
     "moment": "^2.24.0",
     "rc-calendar": "^9.11.0",
     "rc-time-picker": "^3.6.2",
